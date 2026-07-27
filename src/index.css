@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Defaults match the previous slate + indigo look (dark mode) */
+  --ui-950: 2 6 23;
+  --ui-900: 15 23 42;
+  --ui-800: 30 41 59;
+  --ui-700: 51 65 85;
+  --ui-600: 71 85 105;
+  --ui-500: 100 116 139;
+  --ui-400: 148 163 184;
+  --ui-300: 203 213 225;
+  --ui-200: 226 232 240;
+  --ui-accent: 99 102 241;
+  --ui-accent-bright: 129 140 248;
+  --ui-accent-soft: 165 180 252;
+  --ui-accent-deep: 30 27 75;
+  --ui-accent-glow: 49 46 129;
+  --ui-on-accent: 255 255 255;
+  --ui-panel-fill: 15 23 42;
+}
